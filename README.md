@@ -3,6 +3,7 @@
 Define your 4D Web Server API routes **in your code**, as comments above each
 handler function — and let a method generate `HTTPHandlers.json` for you.
 
+[![Blog](https://img.shields.io/badge/blog-blue.svg?style=flat)](https://mesopelagique.github.io/2026/06/29/generate-http-handlers-json.html)
 ## Why
 
 4D's Web Server dispatches incoming HTTP requests to handler functions through a
